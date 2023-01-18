@@ -1,9 +1,11 @@
 # ResearchG-Demo-Data
 This repository is used to save data of demo in research-G.
 ## 1. Demo of bubbles in Research-G
-- Research-G Bubble Demo
-  - 1. simple_bubble_capillary
-  - 2. simple_bubble_marangoni
-  - 3. simple_bubble_pressure
-  - 4. simple_bubble_vorticity
-  - 5. simple_bubble_cuda
+- Research-G Bubble Demo (Corresponding to folder:https://drive.google.com/drive/folders/15P6nsltO7RzROc4JxScbAWDVT6ky2HlX?usp=share_link)
+  - simple_bubble_capillary
+  - simple_bubble_marangoni
+  - simple_bubble_pressure
+  - simple_bubble_vorticity
+  - simple_bubble_cuda
+
+
