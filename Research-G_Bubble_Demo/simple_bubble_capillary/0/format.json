@@ -1,0 +1,42 @@
+{
+  "dim": 3,
+  "f": {
+    "data": "real",
+    "dim": 3,
+    "name": "f.bin",
+    "type": "vector"
+  },
+  "h": {
+    "color_type": "film",
+    "data": "real",
+    "dim": 1,
+    "name": "h.bin",
+    "transparent": 0.5,
+    "type": "color"
+  },
+  "n": {
+    "data": "real",
+    "dim": 3,
+    "name": "n.bin",
+    "type": "vector"
+  },
+  "points": {
+    "data": "real",
+    "dim": 3,
+    "name": "points.bin",
+    "type": "base"
+  },
+  "triangle": {
+    "data": "int",
+    "dim": 3,
+    "name": "triangle.bin",
+    "type": "triangle"
+  },
+  "type": "point_cloud",
+  "v": {
+    "data": "real",
+    "dim": 3,
+    "name": "v.bin",
+    "type": "vector"
+  }
+}
